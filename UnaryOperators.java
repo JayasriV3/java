@@ -18,10 +18,7 @@ public class UnaryOperators {
 		Boolean Wewon = false;
 		System.out.println("the fifth unary operator");
 		System.out.println(Wewon);
-		System.out.println(!Wewon);
-		
-		
-				
+		System.out.println(!Wewon);		
 	}
 
 }
